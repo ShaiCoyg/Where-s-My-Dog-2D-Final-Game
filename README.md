@@ -7,7 +7,7 @@
 <br>
 <b>GENRE:</b> 2D Platformer, Action, Single-Player
 <br>
-<b>Engine:</b> Unity 2D Engine
+<b>ENGINE:</b> Unity 2D Engine
 <br>
 <b>Summary:</b> The Slime Demon striked john and stole his dog (DOGGO)! now john went on a quest on deadly maps to look for his dog in a battle against the slime demon and his gang...
 
