@@ -9,9 +9,7 @@
 <br>
 <b>Engine:</b> Unity 2D Engine
 <br>
-<b>Summary:</b>
-<br>
-The Slime Demon striked john and stole his dog (DOGGO)! now john went on a quest on deadly maps to look for his dog in a battle against the slime demon and his gang...
+<b>Summary:</b> The Slime Demon striked john and stole his dog (DOGGO)! now john went on a quest on deadly maps to look for his dog in a battle against the slime demon and his gang...
 
 
 <br>
@@ -19,5 +17,5 @@ The Slime Demon striked john and stole his dog (DOGGO)! now john went on a quest
 made by shai ely and uri koren for sapir academic college.
 All assets under no copyrights - thanks for the free resources:
 https://assetstore.unity.com/top-assets/top-free
-<br>
+</br>
 https://itch.io/game-assets/free/tag-unity
