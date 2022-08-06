@@ -1,10 +1,12 @@
 # Where's My Dog 2D
-<b>RELEASE DATE: 19.2.2022
+![Capture](https://user-images.githubusercontent.com/https://i.ibb.co/xqMJftQ/Capture.png)
+![Capture](https://user-images.githubusercontent.com/https://i.ibb.co/YBzCXx7/1.png)
+
+<b>RELEASE DATE:</b> 19.2.2022
 <br>
-DEVELOPER: Shai Ely & Uri Koren
+<b>DEVELOPER:</b> Shai Ely & Uri Koren
 <br>
-Genre: 2D Platformer, Action, Single-Player
-</b>
+<b>GENRE:</b> 2D Platformer, Action, Single-Player
 
 <b>Summary:</b>
 <br>
