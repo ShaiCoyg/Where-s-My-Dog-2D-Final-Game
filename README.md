@@ -1,5 +1,5 @@
 # Where's My Dog 2D
-![Capture](https://i.ibb.co/YBzCXx7/1.png)
+![Capture](https://i.ibb.co/xqMJftQ/Capture.png)
 ![Capture](https://i.ibb.co/YBzCXx7/1.png)
 
 <b>RELEASE DATE:</b> 19.2.2022
